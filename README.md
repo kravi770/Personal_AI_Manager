@@ -1,5 +1,4 @@
 # Personal_ChatBOT ( MERN Stack Learning Project )
-Click here to Visit Site 👉 https://ill-tan-dove-sock.cyclic.app/
 
 This is a Full Stack web application built using MongoDB, Express, Node.js, and React.js. It is designed for managing user details (accessible to admin) through Create, Read, Update, and Delete (CRUD) operations. When users create and login into account, they will be directed to a userpage. It contains an input text box which takes input and pass it to chatGPT and fetch response from there. Also users have the option to edit and delete their account info by clicking on profile button.
 
